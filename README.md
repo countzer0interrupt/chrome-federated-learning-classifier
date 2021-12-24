@@ -44,7 +44,4 @@ Due to github size restrictions, it was not possible to include the following fi
 * The latest tokenizer (which is over 141MB) for the Federated Server
 * The latest tokenizer (which is over 100mb) for the Federated Client
 
-In order to get a copy of the correct Tokenizer, please go to:
-http://www.inmachine.io/dissertation/files/
-For Federated Server:  Download 'tokenizer.pickle' and place it in the /model/ folder of the Federated Server directory.
-For Federated Client:  Download 'word_dict.json' and place it into the /assets/ folder of the App.
+In order to get a copy of the correct Tokenizer, please drop me a note on github, or at ant@inmachine.io
